@@ -1,0 +1,7 @@
+C:\Users\Khaled Mansour\source\repos\StringFinder\StringFinder\bin\Debug\StringFinder.exe.config
+C:\Users\Khaled Mansour\source\repos\StringFinder\StringFinder\bin\Debug\StringFinder.exe
+C:\Users\Khaled Mansour\source\repos\StringFinder\StringFinder\bin\Debug\StringFinder.pdb
+C:\Users\Khaled Mansour\source\repos\StringFinder\StringFinder\obj\Debug\StringFinder.csprojAssemblyReference.cache
+C:\Users\Khaled Mansour\source\repos\StringFinder\StringFinder\obj\Debug\StringFinder.csproj.CoreCompileInputs.cache
+C:\Users\Khaled Mansour\source\repos\StringFinder\StringFinder\obj\Debug\StringFinder.exe
+C:\Users\Khaled Mansour\source\repos\StringFinder\StringFinder\obj\Debug\StringFinder.pdb
